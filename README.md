@@ -1,7 +1,3 @@
-This chart is deploying the todo-app.
-For adding this repo follow the command bellow:
-
-
 ## Adding Helm Repository and Installing Application
 
 ### 1. Add Helm Repository
